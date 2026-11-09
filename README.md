@@ -9,7 +9,7 @@
 
 ## 书签工具
 
-1. 打开工具页面（GitHub Pages 部署后为 `https://<用户名>.github.io/<仓库名>/`，或直接双击本地的 `index.html`）。
+1. 打开工具页面：<https://kingxhao.github.io/gaigezong2md/>（或直接双击本地的 `index.html`）。
 2. 显示浏览器书签栏（Chrome / Edge：`Ctrl+Shift+B`），把页面上的「书籍转 Markdown」按钮拖到书签栏。
    拖不动时，点「复制书签代码」，新建书签并把代码粘贴到网址栏。
 3. 打开某本书的**目录页**，例如 `https://gaigezong.com/jiejing/xiduyifusuo/index.htm`，点击该书签。
